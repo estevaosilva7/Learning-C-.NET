@@ -1,0 +1,14 @@
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\tivit_carlos.UNIT\Desktop\Escolher o tipo de dados correto em seu código C#\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
